@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Fixed off-by-one error in loop
 - Fixed minor edge case in input handling
+
+## 2026-04-08
+- Addressed feedback from self code review
