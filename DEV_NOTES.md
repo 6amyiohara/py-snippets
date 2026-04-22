@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Bumped patch version
 - Updated dependencies to latest stable versions
+
+## 2026-04-22
+- Wrote notes on upcoming feature design
+- Fixed off-by-one error in loop
+- Added healthcheck endpoint stub
