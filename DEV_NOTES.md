@@ -33,3 +33,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Updated dependencies to latest stable versions
 - Added .editorconfig for consistent formatting
+
+## 2026-04-22
+- Reorganised test fixtures
+- Added healthcheck endpoint stub
