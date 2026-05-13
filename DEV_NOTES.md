@@ -40,3 +40,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Added type hints to helper functions
+
+## 2026-05-13
+- Added type hints to helper functions
+- Added basic usage examples to README
+- Bumped patch version
