@@ -45,3 +45,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Added basic usage examples to README
 - Bumped patch version
+
+## 2026-05-13
+- Added basic usage examples to README
+- Updated license year
+- Improved log message formatting
